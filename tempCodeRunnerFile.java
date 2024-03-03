@@ -1,1 +1,2 @@
-import java.util.HashMap;
+ obj= new x();
+        obj.show();
