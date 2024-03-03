@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lav"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lav"
+	}
+}

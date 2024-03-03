@@ -1,0 +1,30 @@
+java type costing 
+byte=1
+short=2
+int=4
+long=8
+float=4
+double=8
+
+
+lower to higher typecasting
+
+long cannot stor the float value and double value
+
+
+
+next()=return string
+next().charAt() = return characters 
+
+nextInt() == return the integer value
+
+nextFloat() = returns the float value
+
+nextDouble()= return the double data types value
+ 
+
+
+byte shot int char 
+
+random is mathod to return the double datatype value
+
